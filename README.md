@@ -30,11 +30,13 @@
                
               Locate the py file.
           Then open the file via python IDLE or any IDE that supports python language.
-          Run the py file to launch the program.
+          Run the .py file to launch the program.
           
-          Feel free to reuse the project to your needs, you can aso update this project to become one of the deadly developed system in the world and to be used 
-          by larger Health organizations like World Health Organizations which can find this system effective and supportive, Remember to put a star in the project above to be one of the best project  i have developed in python
-          for any project enquiry email me at okwembanickson3525@gmail.com
+          Feel free to reuse the project to your needs, you can also update this project to become one of the deadly developed system in the world and to be used 
+          by larger Health organizations like World Health Organizations which can find this system effective and supportive, Remember to put a star in the project            above to be one of the best project  i have developed in python.
+          for any project enquiry email me at
+          
+          okwembanickson3525@gmail.com
           
           Happy coding Happy Hacking too!!!
 
